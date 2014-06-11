@@ -1,0 +1,15 @@
+#imagen{ width:100px; height:300px;float:left; margin-left:0px; margin-right:0px;}
+
+
+#divgeneral{width:1520px; height:500px; background-color:#0F9; margin:10px;}
+
+
+#divcuadroimagen{width:100px; height:300px;float:left; margin-left:0px; margin-right:0px; background-color:#CC3;}
+
+
+#descripcion{width:100px; height:300px;float:left; margin-left:10px; margin-right:0px; background-color:#0F3; text-align:center; font-family:"Comic Sans MS", cursive; background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#866493), to(#D9AEEA));}
+
+
+#divprecio{width:100px; height:100px;float:left; margin-left:10px; margin-right:0px; background-color:#66C; text-align:justify; background:-webkit-gradient(linear, 80% 20%, 48% 100%, from(#866493), to(#76AEEA));}
+      
+       
